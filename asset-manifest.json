@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.aeeafade.chunk.css",
-    "main.js": "/static/js/main.1e4972b6.chunk.js",
-    "main.js.map": "/static/js/main.1e4972b6.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d75f4c17.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d75f4c17.js.map",
-    "static/css/2.383c0125.chunk.css": "/static/css/2.383c0125.chunk.css",
-    "static/js/2.3373da6d.chunk.js": "/static/js/2.3373da6d.chunk.js",
-    "static/js/2.3373da6d.chunk.js.map": "/static/js/2.3373da6d.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.383c0125.chunk.css.map": "/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.aeeafade.chunk.css.map": "/static/css/main.aeeafade.chunk.css.map",
-    "static/js/2.3373da6d.chunk.js.LICENSE.txt": "/static/js/2.3373da6d.chunk.js.LICENSE.txt",
-    "static/media/carrito.f2edf70f.png": "/static/media/carrito.f2edf70f.png",
-    "static/media/logo_header.fa2cb2af.png": "/static/media/logo_header.fa2cb2af.png"
+    "main.css": "/react_proyecto_final/static/css/main.aeeafade.chunk.css",
+    "main.js": "/react_proyecto_final/static/js/main.2f8d2938.chunk.js",
+    "main.js.map": "/react_proyecto_final/static/js/main.2f8d2938.chunk.js.map",
+    "runtime-main.js": "/react_proyecto_final/static/js/runtime-main.d061804b.js",
+    "runtime-main.js.map": "/react_proyecto_final/static/js/runtime-main.d061804b.js.map",
+    "static/css/2.383c0125.chunk.css": "/react_proyecto_final/static/css/2.383c0125.chunk.css",
+    "static/js/2.b5e4b595.chunk.js": "/react_proyecto_final/static/js/2.b5e4b595.chunk.js",
+    "static/js/2.b5e4b595.chunk.js.map": "/react_proyecto_final/static/js/2.b5e4b595.chunk.js.map",
+    "index.html": "/react_proyecto_final/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/react_proyecto_final/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.aeeafade.chunk.css.map": "/react_proyecto_final/static/css/main.aeeafade.chunk.css.map",
+    "static/js/2.b5e4b595.chunk.js.LICENSE.txt": "/react_proyecto_final/static/js/2.b5e4b595.chunk.js.LICENSE.txt",
+    "static/media/carrito.f2edf70f.png": "/react_proyecto_final/static/media/carrito.f2edf70f.png",
+    "static/media/logo_header.fa2cb2af.png": "/react_proyecto_final/static/media/logo_header.fa2cb2af.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d75f4c17.js",
+    "static/js/runtime-main.d061804b.js",
     "static/css/2.383c0125.chunk.css",
-    "static/js/2.3373da6d.chunk.js",
+    "static/js/2.b5e4b595.chunk.js",
     "static/css/main.aeeafade.chunk.css",
-    "static/js/main.1e4972b6.chunk.js"
+    "static/js/main.2f8d2938.chunk.js"
   ]
 }
